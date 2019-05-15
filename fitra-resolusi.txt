@@ -1,6 +1,5 @@
 Januar Rama Fitra Resolusi :
 - Konsisten dalam belajar web programming
-- Belajar HTML, CSS
 - Belajar JavaScript
 - Membuat Desain Website
 - Belajar BackEnd (PHP)
